@@ -31,7 +31,7 @@
 .container {
   display: block;
   width: 500px;
-  margin: 0 auto 0;
+  margin: 20px auto 0;
 }
 
 .task {
@@ -42,6 +42,7 @@
 
 .task-row-wrapper {
   display: flex;
+  padding: 20px 0;
 }
 
 ul {
